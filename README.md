@@ -1,4 +1,8 @@
+******************
+
 Top file is for the visual embeddings demo
+
+******************
 
 <!---
 Copyright 2020 The HuggingFace Team. All rights reserved.
