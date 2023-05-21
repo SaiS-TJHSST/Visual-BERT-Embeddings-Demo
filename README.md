@@ -1,4 +1,5 @@
 ******************
+Used Detectron2 to generate visual embeddings for inputs to the Hugging Face VisualBert model.
 
 Top file is for the visual embeddings demo
 
